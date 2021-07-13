@@ -1,0 +1,15 @@
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/bin/Release/netcoreapp2.1/Rave.deps.json
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/bin/Release/netcoreapp2.1/Rave.dll
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/bin/Release/netcoreapp2.1/Rave.pdb
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.AssemblyInfoInputs.cache
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.AssemblyInfo.cs
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.dll
+/Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.pdb
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/bin/Release/netcoreapp2.1/Rave.deps.json
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/bin/Release/netcoreapp2.1/Rave.dll
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/bin/Release/netcoreapp2.1/Rave.pdb
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.csprojAssemblyReference.cache
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.AssemblyInfoInputs.cache
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.AssemblyInfo.cs
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.dll
+/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/Release/netcoreapp2.1/Rave.pdb

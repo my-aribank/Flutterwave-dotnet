@@ -44,7 +44,7 @@ namespace Rave.Models.VirtualAccount
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
             request.AddHeader("Content-Type", "application/json");
-            request.AddParameter("application/json", JsonConvert.SerializeObject(new { virtualaccountparams.email, virtualaccountparams.Frequency, virtualaccountparams.Narration, virtualaccountparams .Duration, virtualaccountparams .seckey, virtualaccountparams .TxRef}), ParameterType.RequestBody);
+            request.AddParameter("application/json", JsonConvert.SerializeObject(new { virtualaccountparams.email, virtualaccountparams.Frequency, virtualaccountparams.Narration, virtualaccountparams.Duration, virtualaccountparams.seckey, virtualaccountparams.TxRef}), ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
             Console.WriteLine(response.Content);
             return response.Content;

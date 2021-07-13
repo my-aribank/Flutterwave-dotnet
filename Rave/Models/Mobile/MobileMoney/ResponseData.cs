@@ -16,7 +16,6 @@ namespace Rave.Models.Mobile.MobileMoney
 
 
         [JsonProperty("validateInstructions")]
-
         public Validate ValidateInstructions { get; set; }
 
         public class Validate

@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <PackOnBuild>true</PackOnBuild>
     <PackageId>rave_csharp</PackageId>
-    <PackageVersion>1.2</PackageVersion>
+    <PackageVersion>1.3</PackageVersion>
     <Authors>Cornelius Ashley, Cleopatra Douglas</Authors>
     <Owners>Cornelius Ashley, Cleopatra Douglas</Owners>
     <PackageProjectUrl>https://github.com/Flutterwave/rave-csharp</PackageProjectUrl>
@@ -15,6 +15,9 @@
     <Description>C# Nuget for Flutterwave Rave payments</Description>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType></DebugType>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="NUnit" Version="3.12.0" />
@@ -32,6 +35,8 @@
     <Folder Include="Models\VirtualAccount\" />
     <Folder Include="Models\Ebills\" />
     <Folder Include="Models\Subscriptions\" />
+    <Folder Include="Models\Transactions\" />
+    <Folder Include="Models\PayPal\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -27,6 +27,7 @@ namespace Rave.Models.Tokens{
 
         [JsonProperty("authModelUsed")]
         public string AuthModelUsed { get; set; }
+
         [JsonProperty("currency")]
         public string Currency { get; set; }
 

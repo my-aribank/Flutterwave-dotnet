@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/RaveTests/RaveTests.csproj": {}
+    "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/RaveTests/RaveTests.csproj": {}
   },
   "projects": {
-    "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/Rave/Rave.csproj": {
-      "version": "1.0.0",
+    "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj": {
+      "version": "1.2.0",
       "restore": {
-        "projectUniqueName": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/Rave/Rave.csproj",
-        "projectName": "Rave",
-        "projectPath": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/Rave/Rave.csproj",
-        "packagesPath": "/Users/cleopatradouglas/.nuget/packages/",
-        "outputPath": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/Rave/obj/",
+        "projectUniqueName": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj",
+        "projectName": "rave_csharp",
+        "projectPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj",
+        "packagesPath": "/Users/corneliusashley-osuzoka/.nuget/packages/",
+        "outputPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/cleopatradouglas/.config/NuGet/NuGet.Config"
+          "/Users/corneliusashley-osuzoka/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "/Users/cleopatradouglas/Desktop/ravec/Rave/Rave/bin/Release": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
@@ -45,49 +42,64 @@
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
+            "Microsoft.Rest.ClientRuntime": {
+              "target": "Package",
+              "version": "[2.3.21, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[12.0.3, )"
+            },
+            "RestClient": {
+              "target": "Package",
+              "version": "[2.5.0.6, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.10.1, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/RaveTests/RaveTests.csproj": {
+    "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/RaveTests/RaveTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/RaveTests/RaveTests.csproj",
+        "projectUniqueName": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/RaveTests/RaveTests.csproj",
         "projectName": "RaveTests",
-        "projectPath": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/RaveTests/RaveTests.csproj",
-        "packagesPath": "/Users/cleopatradouglas/.nuget/packages/",
-        "outputPath": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/RaveTests/obj/",
+        "projectPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/RaveTests/RaveTests.csproj",
+        "packagesPath": "/Users/corneliusashley-osuzoka/.nuget/packages/",
+        "outputPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/RaveTests/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/cleopatradouglas/.config/NuGet/NuGet.Config"
+          "/Users/corneliusashley-osuzoka/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "/Users/cleopatradouglas/Desktop/ravec/Rave/Rave/bin/Release": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/Rave/Rave.csproj": {
-                "projectPath": "/Users/cleopatradouglas/Desktop/masterRaveC/rave-csharp/Rave/Rave.csproj"
+              "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj": {
+                "projectPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj"
               }
             }
           }
@@ -121,10 +133,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }
