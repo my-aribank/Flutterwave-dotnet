@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/corneliusashley-osuzoka/.dotnet/store/|arch|/|tfm|",
-      "/Users/corneliusashley-osuzoka/.nuget/packages"
+      "C:\\Users\\teere\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\teere\\.nuget\\packages"
     ]
   }
 }

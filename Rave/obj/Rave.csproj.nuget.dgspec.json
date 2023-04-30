@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj": {}
+    "C:\\Users\\teere\\Documents\\Tobi\\my-air-bank\\Flutterwave-dotnet\\Rave\\Rave.csproj": {}
   },
   "projects": {
-    "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj": {
-      "version": "1.2.0",
+    "C:\\Users\\teere\\Documents\\Tobi\\my-air-bank\\Flutterwave-dotnet\\Rave\\Rave.csproj": {
+      "version": "1.3.0",
       "restore": {
-        "projectUniqueName": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj",
+        "projectUniqueName": "C:\\Users\\teere\\Documents\\Tobi\\my-air-bank\\Flutterwave-dotnet\\Rave\\Rave.csproj",
         "projectName": "rave_csharp",
-        "projectPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/Rave.csproj",
-        "packagesPath": "/Users/corneliusashley-osuzoka/.nuget/packages/",
-        "outputPath": "/Users/corneliusashley-osuzoka/Projects/Flutterwave-dotnet/Rave/obj/",
+        "projectPath": "C:\\Users\\teere\\Documents\\Tobi\\my-air-bank\\Flutterwave-dotnet\\Rave\\Rave.csproj",
+        "packagesPath": "C:\\Users\\teere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teere\\Documents\\Tobi\\my-air-bank\\Flutterwave-dotnet\\Rave\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/corneliusashley-osuzoka/.config/NuGet/NuGet.Config"
+          "C:\\Users\\teere\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net48"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "net48": {
+            "targetAlias": "net48",
             "projectReferences": {}
           }
         },
@@ -34,17 +37,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "net48": {
+          "targetAlias": "net48",
           "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            },
             "Microsoft.Rest.ClientRuntime": {
               "target": "Package",
-              "version": "[2.3.21, )"
+              "version": "[2.3.24, )"
             },
             "NUnit": {
               "target": "Package",
@@ -63,17 +61,7 @@
               "version": "[106.10.1, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

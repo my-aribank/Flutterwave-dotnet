@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "Rave/1.0.0": {
         "dependencies": {
-          "Microsoft.Rest.ClientRuntime": "2.3.21",
+          "Microsoft.Rest.ClientRuntime": "2.3.24",
           "NUnit": "3.12.0",
           "Newtonsoft.Json": "12.0.3",
           "RestClient": "2.5.0.6",
@@ -142,14 +142,14 @@
           }
         }
       },
-      "Microsoft.Rest.ClientRuntime/2.3.21": {
+      "Microsoft.Rest.ClientRuntime/2.3.24": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.3.21.0"
+            "fileVersion": "2.3.23.0"
           }
         }
       },
@@ -593,12 +593,12 @@
       "path": "microsoft.extensions.primitives/1.1.1",
       "hashPath": "microsoft.extensions.primitives.1.1.1.nupkg.sha512"
     },
-    "Microsoft.Rest.ClientRuntime/2.3.21": {
+    "Microsoft.Rest.ClientRuntime/2.3.24": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-KDYlgTyO693V6pi6SGk9eg+dDvKjuOgmkapbHdpnB1SmTPKpvWxVLIMyARJsCFLfB6axyURUJHOfvxBQ0yJKeg==",
-      "path": "microsoft.rest.clientruntime/2.3.21",
-      "hashPath": "microsoft.rest.clientruntime.2.3.21.nupkg.sha512"
+      "sha512": "sha512-hZH7XgM3eV2jFrnq7Yf0nBD4WVXQzDrer2gEY7HMNiwio2hwDsTHO6LWuueNQAfRpNp4W7mKxcXpwXUiuVIlYw==",
+      "path": "microsoft.rest.clientruntime/2.3.24",
+      "hashPath": "microsoft.rest.clientruntime.2.3.24.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

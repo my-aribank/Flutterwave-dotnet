@@ -83,31 +83,31 @@ namespace RaveTests
 
         //}
 
-        ////Noauth Card charge test
-        //[TestMethod]
-        //public void avschargetest()
-        //{
-        //    var raveConfig = new RaveConfig(PbKey, ScKey, false);
-        //    var cardCharge = new ChargeCard(raveConfig);
-        //    var card = new Card("5377283645077450", "09", "21", "789");
+        //Noauth Card charge test
+        [TestMethod]
+        public void avschargetest()
+        {
+            var raveConfig = new RaveConfig(PbKey, ScKey, false);
+            var cardCharge = new ChargeCard(raveConfig);
+            var card = new Card("5377283645077450", "09", "21", "789");
 
-        //    var payload = new CardParams(PbKey, ScKey, "Anonymous", "Tester", "user@example.com", 200, "USD", card, "07205", "Hillside", "470 Mundet PI", "NJ", "US");
+            var payload = new CardParams(PbKey, ScKey, "Anonymous", "Tester", "user@example.com", 200, "USD", card, "07205", "Hillside", "470 Mundet PI", "NJ", "US");
 
-        //    var res = cardCharge.Charge(payload).Result;
+            var res = cardCharge.Charge(payload).Result;
 
-        //    try
-        //    {
-        //        Assert.IsNotNull(res.Data);
-        //        Console.WriteLine(res.Data);
-        //        Assert.AreEqual("success", res.Status);
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        Console.WriteLine(ex.ToString());
-        //    }
+            try
+            {
+                Assert.IsNotNull(res.Data);
+                Console.WriteLine(res.Data);
+                Assert.AreEqual("success", res.Status);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
 
 
-        //}
+        }
 
 
         ////Mobile money charge test

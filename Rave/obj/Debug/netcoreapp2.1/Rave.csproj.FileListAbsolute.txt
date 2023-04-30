@@ -50,3 +50,13 @@ C:/Users/Cornelius Osuzoka/source/repos/rave-csharp/Rave/obj/Debug/netcoreapp2.1
 /Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Debug/netcoreapp2.1/Rave.AssemblyInfo.cs
 /Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Debug/netcoreapp2.1/Rave.dll
 /Users/corneliusashley-osuzoka/Desktop/Projects/Wave/Flutterwave-dotnet/Rave/obj/Debug/netcoreapp2.1/Rave.pdb
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\bin\Debug\netcoreapp2.1\Rave.deps.json
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\bin\Debug\netcoreapp2.1\Rave.dll
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\bin\Debug\netcoreapp2.1\Rave.pdb
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.csproj.AssemblyReference.cache
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.AssemblyInfoInputs.cache
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.AssemblyInfo.cs
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.csproj.CoreCompileInputs.cache
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.dll
+C:\Users\teere\Documents\Tobi\my-air-bank\Flutterwave-dotnet\Rave\obj\Debug\netcoreapp2.1\Rave.pdb
